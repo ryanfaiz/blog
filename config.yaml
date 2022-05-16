@@ -77,11 +77,11 @@ params:
     - name: rss
       url: "/index.xml"
 
-  analytics:
-    google:
-      SiteVerificationTag: "O5SwgqgpJvZ9fpLj3Uz9ccmIpTC4cWMBF3ow4KVLAYc"
-    bing:
-      SiteVerificationTag: "C22EEDD34C851FD5BC53E86E9307B7E3"
+  # analytics:
+    # google:
+      # SiteVerificationTag: ""
+    # bing:
+      # SiteVerificationTag: ""
     # yandex:
     #  SiteVerificationTag: ""
 
