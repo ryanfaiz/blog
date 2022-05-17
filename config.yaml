@@ -25,7 +25,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: RyanFaiz
+  title: Ryan Faiz
   description: "Ryan Faiz Sanie - Tech News Article Tutorial"
   keywords: [Article, Blog, News, Tech, Tutorial]
   author: Ryan Faiz Sanie
