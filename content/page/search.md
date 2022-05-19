@@ -5,4 +5,5 @@ url: "/search"
 menu: main
 hideMeta: true
 searchHidden: true
+offTheRecord: true
 ---

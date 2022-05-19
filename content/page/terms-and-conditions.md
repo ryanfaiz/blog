@@ -2,6 +2,7 @@
 title: "Terms of Service Agreement"
 url: "/terms-of-service-agreement"
 hideMeta: true
+offTheRecord: true
 ---
 
 **Terms & Conditions**

@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 url: "/privacy-policy"
 hideMeta: true
+offTheRecord: true
 ---
 
 **Privacy Policy**
