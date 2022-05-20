@@ -1,6 +1,7 @@
 baseURL: "https://ryanfaiz.netlify.app/"
 title: Ryan Faiz
 paginate: 5
+theme: PaperModX
 
 enableRobotsTXT: true
 buildDrafts: false
