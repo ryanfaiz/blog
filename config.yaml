@@ -96,9 +96,6 @@ params:
     
 menu:
     main:
-        - name: Archive
-          url: archives/
-          weight: 10
         - name: Tags
           url: tags/
           weight: 10
