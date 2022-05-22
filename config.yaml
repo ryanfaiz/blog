@@ -36,6 +36,7 @@ params:
   defaultTheme: auto # dark, light, or auto
   disableThemeToggle: false
 
+  EnableInstantClick: true
   ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: false
@@ -49,19 +50,9 @@ params:
   showtoc: false
   tocopen: false
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: /favicon.ico
-    favicon16x16: /icon/favicon-16x16.webp
-    favicon32x32: /icon/favicon-32x32.webp
-    apple_touch_icon: /icon/apple-touch-icon.webp
-    # safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: "Home"
+  favicon: /favicon.ico
+  logo:
     icon: /icon/apple-touch-icon.webp
-    iconHeight: 35
 
   # home-info mode
   homeInfoParams:
