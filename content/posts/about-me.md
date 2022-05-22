@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2022-05-22T13:14:25+07:00
+date: May 22, 2022
 url: "/about-me"
 category: categories
 tag: tags
