@@ -2,8 +2,11 @@
 title: "About Me"
 date: May 22, 2022
 url: "/about-me"
-category: categories
-tag: tags
+categories:
+  - Development
+tags:
+  - tags1
+  - tags2
 draft: false
 hidden: false
 ---
