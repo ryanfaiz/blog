@@ -3,7 +3,7 @@ title: "About Me"
 date: May 22, 2022
 url: "/about-me"
 categories:
-  - Development
+  - Page
 tags:
   - tags1
   - tags2
