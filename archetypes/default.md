@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+date: {{ .Date | time.Format ":date_long" }}
 url: "/"
 category: categories
 tag: tags
