@@ -21,6 +21,11 @@ outputs:
         - RSS
         - JSON
 
+taxonomies:
+  category: categories
+  tag: tags
+
+
 params:
   env: production
   title: Ryan Faiz
