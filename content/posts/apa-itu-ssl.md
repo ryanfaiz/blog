@@ -1,5 +1,5 @@
 ---
-title: "Apa Itu Ssl"
+title: "Apa Itu SSL"
 date: May 24, 2022
 url: "/apa-itu-ssl"
 categories:
