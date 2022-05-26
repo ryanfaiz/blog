@@ -1,7 +1,7 @@
 ---
 title: "Apa Itu Database"
 date: May 26, 2022
-url: "/apa itu database"
+url: "/apa-itu-database"
 categories:
   - Article
 tags:
