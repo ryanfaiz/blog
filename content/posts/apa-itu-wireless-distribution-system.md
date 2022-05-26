@@ -16,8 +16,8 @@ Wide Distibution System (WDS) adalah sistem yang memungkinkan koneksi nirkabel m
 
 ## Mode WDS pada jaringan Wireless: 
 - Bridge, adalah mode komunikasi dua arah antara Access Point Wireless Distribution System satu dengan Access Point lainnya, tetapi tidak memperbolehkan perangkat wireless clients atau Station (STA) untuk mengaksesnya. 
-	- 1. Bridge Point to point
-	- 2. Bridge Point to multi point
+	- Bridge Point to point
+	- Bridge Point to multi point
  
 - Repeater, adalah mode komunikasi dimana Access Point saling berkomunikasi satu sama lain dan juga berkomunikasi dengan perangkat wireless clients atau Station (STA). 
 	- Single Repeater

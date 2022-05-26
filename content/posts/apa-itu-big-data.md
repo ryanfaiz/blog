@@ -12,7 +12,7 @@ hidden: false
 ---
 
 ## Apa Itu Big Data
-Big Data adalah istilah umum untuk segala himpunan data dalam jumlah yang sangat besar, rumit, dan tak terstruktur sehingga menjadikannya sukar ditangani apabila hanya menggunakan perkakas manajemen pangkalan data biasa atau aplikasi pengolah data tradisional belaka. 
+Big Data adalah himpunan data dalam jumlah yang sangat besar, rumit, dan tak terstruktur sehingga menjadi sulit ditangani menggunakan aplikasi pengolah data tradisional. 
 
 ## Framework Big Data
 - Apache Hadoop
