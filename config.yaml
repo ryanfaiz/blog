@@ -51,6 +51,7 @@ params:
   tocopen: false
 
   favicon: /favicon.ico
+  appleTouchIcon: /icon/apple-touch-icon.webp
   logo:
     icon: /icon/apple-touch-icon.webp
 
