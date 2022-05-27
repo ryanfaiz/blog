@@ -47,3 +47,8 @@ Database adalah kumpulan data yang dikelola bedasarkan kondisi tertentu yang sal
 - Kompleksitas cukup tinggi
 - Memerlukan biaya tambahan
 - Membuat kapasitas server/node menjadi berkurang
+
+
+---
+### Related Links
+[Apa itu DBMS](/apa-itu-dbms)
