@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu Wireless Distribution System"
-date: May 26, 2022
+date: 2022-05-26T16:20:00+07:00
 url: "/apa-itu-wireless-distribution-system"
 categories:
   - Article

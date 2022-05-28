@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu SSL"
-date: May 24, 2022
+date: 2022-05-24T10:20:00+07:00
 url: "/apa-itu-ssl"
 categories:
   - Article

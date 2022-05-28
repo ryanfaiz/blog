@@ -32,7 +32,7 @@ params:
   description: "Ryan Faiz Sanie - Tech News Article Tutorial"
   keywords: [Article, Blog, News, Tech, Tutorial]
   author: Ryan Faiz Sanie
-  DateFormat: "February 21, 2005"
+  DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light, or auto
   disableThemeToggle: false
 

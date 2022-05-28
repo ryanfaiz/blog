@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu DBMS"
-date: May 27, 2022
+date: 2022-05-27T10:20:00+07:00
 url: "/apa-itu-dbms"
 categories:
   - Article

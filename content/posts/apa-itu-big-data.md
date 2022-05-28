@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu Big Data"
-date: May 25, 2022
+date: 2022-05-25T10:20:00+07:00
 url: "/apa-itu-big-data"
 categories:
   - Article
