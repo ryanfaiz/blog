@@ -3,7 +3,7 @@ title: "Apa Itu Apache Beam"
 date: 2022-06-02T15:00:00+07:00
 url: "/apa-itu-apache-beam"
 categories:
-  - Page
+  - Article
 tags:
   - Big Data
   - Framework
