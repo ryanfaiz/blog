@@ -60,6 +60,10 @@
     if (!enableTocScroll) {
       return
     }
+    if (!document.querySelector('.toc')) {
+      console.log('no toc found, ignore toc scroll')
+      return
+    }
     // console.log('enable toc scroll')
 
     // always get an array here
@@ -121,7 +125,7 @@
 {{- if (.Param "EnableImageZoom") }}
 <script>
   mediumZoom('.entry-cover img');
-  mediumZoom('.post-content img');
+  mediumZoom('.post-content img:not([no-zoom])');
 </script>
 {{- end }}
 
