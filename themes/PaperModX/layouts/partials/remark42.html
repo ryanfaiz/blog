@@ -1,23 +1,45 @@
-<div id="remark42"></div>
+<div class="comments">
+  <div class="title">
+    <span>Comments</span>
+    <span class="counter"><span class="remark42__counter" data-url="{{ .page.Permalink }}"></span></span>
+  </div>
+  <div id="remark42">
+  </div>
+</div>
 
 <script>
   var remark_config = {
-    host: '{{ .url }}',
-    site_id: '{{ .site }}',
-    components: ['embed'],
+    host: '{{ .ctx.url }}',
+    site_id: '{{ .ctx.site }}',
+    components: ['embed', 'counter'],
     max_shown_comments: 20,
     theme: 'light',
-    // page_title: 'My custom title for a page',
-    // show_email_subscription: false,
-    simple_view: true
+    simple_view: true,
+    admonition: JSON.stringify(['Please subscribe by email to receive reply notifications.']),
   };
   if (isDarkTheme()) {
     remark_config.theme = 'dark'
   }
 
   (function() {
-    const remark42 = window.REMARK42
+    // toogle theme callback
+    const key = 'remark42'
+    if (!toggleThemeCallbacks.hasOwnProperty(key)) {
+      toggleThemeCallbacks[key] = (isDark) => {
+        const remark42 = window.REMARK42
+        if (!remark42 || !document.querySelector('#remark42')) {
+          return;
+        }
+        if (isDark) {
+          remark42.changeTheme('light');
+        } else {
+          remark42.changeTheme('dark');
+        }
+      }
+    }
 
+    // init or reset remark42
+    const remark42 = window.REMARK42
     if (remark42) {
       remark42.destroy()
       remark42.createInstance(remark_config)
@@ -32,29 +54,5 @@
         d.head.appendChild(s);
       }
     }
-  })();
-</script>
-
-<script data-no-instant>
-  (function() {
-    if (!toggleThemeCallbacks) {
-      return;
-    }
-
-    toggleThemeCallbacks.push((isDark) => {
-      const remark42 = window.REMARK42
-      if (!remark42) {
-        return;
-      }
-      if (!document.getElementById('remark42')) {
-        return;
-      }
-
-      if (isDark) {
-        remark42.changeTheme('light');
-      } else {
-        remark42.changeTheme('dark');
-      }
-    });
   })();
 </script>
