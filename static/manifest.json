@@ -1,0 +1,30 @@
+{
+  "name": "Ryan Faiz",
+  "short_name": "RyanFaiz",
+  "description": "Article about Linux and Tech",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation" : "any",
+  "background_color": "#FFFFFF",
+  "theme_color": "#ffe9ca",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-512x512.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable_icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/spalshscreen-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

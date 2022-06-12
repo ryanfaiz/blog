@@ -13,7 +13,7 @@ enableEmoji: true
 
 minify:
   disableXML: true
-  # minifyOutput: true
+  minifyOutput: true
 
 outputs:
     home:
@@ -51,9 +51,9 @@ params:
   tocopen: false
 
   favicon: /favicon.ico
-  appleTouchIcon: /icon/apple-touch-icon.webp
+  appleTouchIcon: /icons/apple-touch-icon.webp
   logo:
-    icon: /icon/apple-touch-icon.webp
+    icon: /icons/apple-touch-icon.webp
 
   # home-info mode
   homeInfoParams:
