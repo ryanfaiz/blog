@@ -53,7 +53,7 @@ params:
   favicon: /favicon.ico
   appleTouchIcon: /icons/apple-touch-icon.webp
   logo:
-    icon: /icons/apple-touch-icon.webp
+    icon: /icons/favicon.webp
 
   # home-info mode
   homeInfoParams:

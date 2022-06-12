@@ -141,7 +141,7 @@
 
 {{- /* InstantClick.js */}}
 {{- if (.Param "EnableInstantClick") }}
-{{- $instantclick := resources.Get "js/instantclick.js" }}
+{{- $instantclick := resources.Get "js/instantclick.min.js" }}
 {{- if hugo.IsProduction }}
   {{- $instantclick = minify $instantclick }}
 {{- end }}

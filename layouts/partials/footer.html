@@ -138,7 +138,7 @@
 
 {{- /* InstantClick.js */}}
 {{- if (.Param "EnableInstantClick") }}
-{{- $instantclick := resources.Get "js/instantclick.js" }}
+{{- $instantclick := resources.Get "js/instantclick.min.js" }}
 <script src="{{ $instantclick.RelPermalink }}" data-no-instant
   {{- if site.Params.assets.disableFingerprinting }}integrity="{{ $instantclick.Data.Integrity }}"{{- end }}
 ></script>
