@@ -45,7 +45,7 @@ mark {
     font-size: 13px;
     line-height: 36px;
     background: var(--primary);
-    border-radius: calc(36px / 2);
+    border-radius: 5px;
     padding: 0 16px;
 }
 
@@ -194,8 +194,7 @@ figure > img {
   height: 16px;
   image-rendering: -webkit-optimize-contrast;
 }
-.links .item .title  {
-}
+
 .links .item .title .favicon {
   margin-right: calc(var(--gap) / 2);
   vertical-align: middle;

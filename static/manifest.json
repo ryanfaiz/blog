@@ -26,5 +26,19 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "shortcuts": [
+    {
+       "name": "Search",
+       "description": "Search page in ryanfaiz.netlify.app",
+       "url": "/search/",
+       "icons": [
+          {
+             "src": "/icons/search.svg",
+             "type": "image/svg+xml",
+             "purpose": "any"
+          }
+       ]
+    }
+ ]
 }

@@ -1,0 +1,8 @@
+@import '../lib/chroma-light.css';
+
+ .chroma {
+	 background-color: #f6f8fa;
+}
+ .dark {
+	@import '../lib/chroma-dark.css';
+}
