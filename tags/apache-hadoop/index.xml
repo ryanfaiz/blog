@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apache Hadoop on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/apache-hadoop/</link>
+    <description>Recent content in Apache Hadoop on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 May 2022 11:30:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/apache-hadoop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu Apache Hadoop</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-apache-hadoop/</link>
+      <pubDate>Tue, 31 May 2022 11:30:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-apache-hadoop/</guid>
+      <description>Pengertian Apache Hadoop Adalah open-source framework yang dibuat oleh Doug Cutting, Mike Cafarella dan dikembangkan oleh Apache Software Foundation pada April 1, 2006. Apache Hadoop dikembangkan menggunakan bahasa pemerograman JAVA.
+Modul Apache Hadoop Hadoop Common Hadoop Distributed File System (HDFS) Hadoop YARN Hadoop MapReduce Hadoop Ozone Dukungan Apache Hadoop Apache Hadoop dapat digunakan pada bahasa pemerograman, seperti:
+Perl Python PHP R C++ Kelebihan Apache Hadoop Mampu melakukan komputasi dengan beberapa nodes (komputer) secara sekaligus Mampu melekukan pembagian beban komputasi ke beberapa nodes (komputer) Kekurangan Apache Hadoop Kurang cocok untuk transaksi online Kurang cocok untuk analisis data Kurang cocok untuk membantu membuat keputusan Related Links Apa itu Big Data Apa itu MapReduce Apa itu Apache Spark Apa itu Apache Hive Apa itu Apache Beam </description>
+      <content:encoded><![CDATA[<h2 id="pengertian-apache-hadoop">Pengertian Apache Hadoop</h2>
+<p>Adalah open-source framework yang dibuat oleh Doug Cutting, Mike Cafarella dan dikembangkan oleh Apache Software Foundation pada April 1, 2006. Apache Hadoop dikembangkan menggunakan bahasa pemerograman JAVA.</p>
+<h2 id="modul-apache-hadoop">Modul Apache Hadoop</h2>
+<ul>
+<li>Hadoop Common</li>
+<li>Hadoop Distributed File System (HDFS)</li>
+<li>Hadoop YARN</li>
+<li>Hadoop MapReduce</li>
+<li>Hadoop Ozone</li>
+</ul>
+<h2 id="dukungan-apache-hadoop">Dukungan Apache Hadoop</h2>
+<p>Apache Hadoop dapat digunakan pada bahasa pemerograman, seperti:</p>
+<ul>
+<li>Perl</li>
+<li>Python</li>
+<li>PHP</li>
+<li>R</li>
+<li>C++</li>
+</ul>
+<h2 id="kelebihan-apache-hadoop">Kelebihan Apache Hadoop</h2>
+<ul>
+<li>Mampu melakukan komputasi dengan beberapa nodes (komputer) secara sekaligus</li>
+<li>Mampu melekukan pembagian beban komputasi ke beberapa nodes (komputer)</li>
+</ul>
+<h2 id="kekurangan-apache-hadoop">Kekurangan Apache Hadoop</h2>
+<ul>
+<li>Kurang cocok untuk transaksi online</li>
+<li>Kurang cocok untuk analisis data</li>
+<li>Kurang cocok untuk membantu membuat keputusan</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<ul>
+<li><a href="/apa-itu-big-data">Apa itu Big Data</a></li>
+<li><a href="/apa-itu-map-reduce">Apa itu MapReduce</a></li>
+<li><a href="/apa-itu-apache-spark">Apa itu Apache Spark</a></li>
+<li><a href="/apa-itu-apache-hive">Apa itu Apache Hive</a></li>
+<li><a href="/apa-itu-apache-beam">Apa itu Apache Beam</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

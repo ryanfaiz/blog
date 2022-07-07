@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DBMS on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/dbms/</link>
+    <description>Recent content in DBMS on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 May 2022 10:20:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/dbms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu DBMS</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-dbms/</link>
+      <pubDate>Fri, 27 May 2022 10:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-dbms/</guid>
+      <description>Pengertian DBMS Database Management System (DBMS) adalah suatu software management system yang dibuat untuk mengelola database dengan service atau layanan.
+Fungsi DBMS Database engine Mengurangi potensi ketidakkonsisten data Pengelolaan data Meningkatkan Data Integrity Jenis DBMS Hierarchical Database Network Database Relational Database Software DBMS Microsoft Access Oracle Microsoft SQL Server Firebird Kelebihan DBMS Kualitas data sharing meningkat Meningkatkan efisiensi proses pada server Kekurangan DBMS Memerlukan biaya operasional Frekuensi update relatif cepat Lebih direkomendasikan menggunakan DBMS pada server independen Related Links Apa itu Database?</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-dbms">Pengertian DBMS</h2>
+<p>Database Management System (DBMS) adalah suatu software management system yang dibuat untuk mengelola database dengan service atau layanan.</p>
+<h2 id="fungsi-dbms">Fungsi DBMS</h2>
+<ul>
+<li>Database engine</li>
+<li>Mengurangi potensi ketidakkonsisten data</li>
+<li>Pengelolaan data</li>
+<li>Meningkatkan Data Integrity</li>
+</ul>
+<h2 id="jenis-dbms">Jenis DBMS</h2>
+<ul>
+<li>Hierarchical Database</li>
+<li>Network Database</li>
+<li>Relational Database</li>
+</ul>
+<h2 id="software-dbms">Software DBMS</h2>
+<ul>
+<li>Microsoft Access</li>
+<li>Oracle</li>
+<li>Microsoft SQL Server</li>
+<li>Firebird</li>
+</ul>
+<h2 id="kelebihan-dbms">Kelebihan DBMS</h2>
+<ul>
+<li>Kualitas data sharing meningkat</li>
+<li>Meningkatkan efisiensi proses pada server</li>
+</ul>
+<h2 id="kekurangan-dbms">Kekurangan DBMS</h2>
+<ul>
+<li>Memerlukan biaya operasional</li>
+<li>Frekuensi update relatif cepat</li>
+<li>Lebih direkomendasikan menggunakan DBMS pada server independen</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<p><a href="/apa-itu-database">Apa itu Database?</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

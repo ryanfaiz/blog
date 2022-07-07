@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WDS on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/wds/</link>
+    <description>Recent content in WDS on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 May 2022 16:20:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/wds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu Wireless Distribution System</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-wireless-distribution-system/</link>
+      <pubDate>Thu, 26 May 2022 16:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-wireless-distribution-system/</guid>
+      <description>Pengertian WDS Wide Distibution System (WDS) adalah sistem yang memungkinkan koneksi nirkabel melalui access point dalam jaringan IEEE 802.11.
+Mode WDS pada jaringan Wireless: Bridge, adalah mode komunikasi dua arah antara Access Point Wireless Distribution System satu dengan Access Point lainnya, tetapi tidak memperbolehkan perangkat wireless clients atau Station (STA) untuk mengaksesnya.
+Bridge Point to point Bridge Point to multi point Repeater, adalah mode komunikasi dimana Access Point saling berkomunikasi satu sama lain dan juga berkomunikasi dengan perangkat wireless clients atau Station (STA).</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-wds">Pengertian WDS</h2>
+<p>Wide Distibution System (WDS) adalah sistem yang memungkinkan koneksi nirkabel melalui access point dalam jaringan IEEE 802.11.</p>
+<h2 id="mode-wds-pada-jaringan-wireless">Mode WDS pada jaringan Wireless:</h2>
+<ul>
+<li>
+<p>Bridge, adalah mode komunikasi dua arah antara Access Point Wireless Distribution System satu dengan Access Point lainnya, tetapi tidak memperbolehkan perangkat wireless clients atau Station (STA) untuk mengaksesnya.</p>
+<ul>
+<li>Bridge Point to point</li>
+<li>Bridge Point to multi point</li>
+</ul>
+</li>
+<li>
+<p>Repeater, adalah mode komunikasi dimana Access Point saling berkomunikasi satu sama lain dan juga berkomunikasi dengan perangkat wireless clients atau Station (STA).</p>
+<ul>
+<li>Single Repeater</li>
+<li>Multi Repeater</li>
+</ul>
+</li>
+</ul>
+<h2 id="syarat-menerapkan-wds">Syarat Menerapkan WDS:</h2>
+<ul>
+<li>Perangkat Wireless Network seperti Wireless Router, Acces Point, dan Access point Repeater wajib support teknologi WDS.</li>
+<li>IP Address perangkat wireless network harus berbeda.</li>
+<li>Perangkat Wireless Network wajib support autentikasi, seperti WEP atau WAP.</li>
+<li>SSID (Service Set Identifiers) yang digunakan pada perangkat wireless network harus berbeda untuk identitas masing-masing perangkat wireless network.</li>
+<li>Setelan Radio Channel yang digunakan wajib sama.</li>
+<li>Pastikan MAC Address Access Point Utama sudah tersimpan di Access point repeater.</li>
+<li>Matikan fitur DHCP server pada Access Point Repeater.</li>
+</ul>
+<h2 id="kelebihan-wds">Kelebihan WDS</h2>
+<ul>
+<li>Lebih hemat biaya</li>
+<li>Lebih efisien</li>
+<li>Mudah dikonfigurasi</li>
+<li>Header MAC address dari paket traffic bersifat tetap atau tidak berubah</li>
+</ul>
+<h2 id="kekurangan-wds">Kekurangan WDS</h2>
+<ul>
+<li>Troughput efektif maksimum akan terbagi menjadi dua setelah transmisi pertama dibuat</li>
+<li>Fitur Dynamic Encryption Key tidak didukung dalam teknologi Wide Distribution System (WDS)</li>
+<li>Tidak semua akses point support teknologi Wide Distribution System (WDS)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

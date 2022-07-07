@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TLS on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/tls/</link>
+    <description>Recent content in TLS on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 24 May 2022 10:20:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/tls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu SSL</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-ssl/</link>
+      <pubDate>Tue, 24 May 2022 10:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-ssl/</guid>
+      <description>Pengertian SSL dan TLS SSL atau Secure Sockets Layer, adalah protokol keamanan yang didesain untuk melindungi data di Internet. TLS atau Transport Layer Security, adalah protokol keamanan yang berfungsi untuk mengamankan privasi data dan merupakan versi baru SSL.
+Kegunaan SSL dan TLS Menjaga keamanan data yang melintas di atau melalui jaringan internet.
+Manfaat Memasang SSL dan TLS Website Anda terkesan lebih profesional Melindungi data dan informasi penting Meningkatkan SEO website Mematuhi aturan transaksi di internet Cara Kerja SSL dan TLS Cara kerja SSL adalah dengan menyimpan cryptographic key dari informasi perusahaan yang akan diidentifikasi.</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-ssl-dan-tls">Pengertian SSL dan TLS</h2>
+<p>SSL atau Secure Sockets Layer, adalah protokol keamanan yang didesain untuk melindungi data di Internet. </p>
+<p>TLS atau Transport Layer Security, adalah protokol keamanan yang berfungsi untuk mengamankan privasi data dan merupakan versi baru SSL.</p>
+<h2 id="kegunaan-ssl-dan-tls">Kegunaan SSL dan TLS</h2>
+<p>Menjaga keamanan data yang melintas di atau melalui jaringan internet.</p>
+<h2 id="manfaat-memasang-ssl-dan-tls">Manfaat Memasang SSL dan TLS</h2>
+<ul>
+<li>Website Anda terkesan lebih profesional</li>
+<li>Melindungi data dan informasi penting</li>
+<li>Meningkatkan SEO website</li>
+<li>Mematuhi aturan transaksi di internet</li>
+</ul>
+<h2 id="cara-kerja-ssl-dan-tls">Cara Kerja SSL dan TLS</h2>
+<p>Cara kerja SSL adalah dengan menyimpan cryptographic key dari informasi perusahaan yang akan diidentifikasi. Ketika ada request access dari suatu jaringan, maka SSL akan membandingan cryptographic key yang disimpan dengan cryptographic key dari pengakses. Apabila cryptographic key dari pengakses sama dengan cryptographic key yang disimpan, maka akses itu akan diterima. Namun, apabila cryptographic key dari pengakses berbeda dengan cryptographic key yang disimpan, maka akses itu akan ditolak.</p>
+<h2 id="perubahan-dari-http-ke-https">Perubahan dari HTTP ke HTTPS</h2>
+<p>Perubahan yang terjadi dari HTTP ke HTTPS adalah semua data dan transaksi menjadi lebih aman dan terenkripsi.</p>
+<h2 id="jenis-jenis-ssl">Jenis-jenis SSL</h2>
+<ul>
+<li>Sertifikat SSL Single Domain</li>
+<li>Sertifikat SSL Wildcard</li>
+<li>Sertifikat SSL Multi-Domain</li>
+<li>Unified Communications Certificates</li>
+</ul>
+<h2 id="cara-memilih-ssltls">Cara Memilih SSL/TLS</h2>
+<ul>
+<li>Jika hanya ingin memverifikasi 1 website atau 1 domain, direkomendasikan menggunakan Sertifikat SSL Single Domain atau Sertifikat SSL Wildcard</li>
+<li>Jika ingin memverifikasi lebih dari 1 website direkomendasikan menggunakan Sertifikat SSL Multi-Domain</li>
+</ul>
+<h2 id="kelebihan-menggunakan-ssltls">Kelebihan Menggunakan SSL/TLS</h2>
+<ul>
+<li>Keamanan</li>
+<li>Lebih Terpercaya</li>
+<li>Meningkatkan SEO website</li>
+</ul>
+<h2 id="kekurangan-menggunakan-ssltls">Kekurangan Menggunakan SSL/TLS</h2>
+<ul>
+<li>Website Lebih Lambat</li>
+<li>Dukungan Terhadap Browser Lama</li>
+<li>Biaya Tambahan</li>
+</ul>
+<h2 id="cara-instalasi-ssl-di-cpanel">Cara Instalasi SSL di CPANEL</h2>
+<ol>
+<li>Login ke CPANEL</li>
+<li>Masuk ke bagian ‘Security’</li>
+<li>Klik ‘SSL/TLS Manager’</li>
+<li>Klik ‘Generate, view, upload or delete SSL Certificates’</li>
+<li>Upload file certificate (formatnya .crt) untuk domain yang ingin di instalasi SSL/TLS</li>
+<li>Klik ‘Go Back.’</li>
+<li>Scroll dan klik ‘Return to SSL Manager’</li>
+<li>Klik ‘Setup a SSL Certificate to work with your site’</li>
+<li>Pilih domain yang ingin di instalasi SSL/TLS</li>
+<li>Klik ‘Install Certificate’</li>
+</ol>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,0 @@
-@import url(C:\Users\ryanf\Documents\blog\themes\hugo-Sanie\assets\css\lib\chroma-light.css);
-@import url(C:\Users\ryanf\Documents\blog\themes\hugo-Sanie\assets\css\lib\chroma-dark.css);
-.chroma {
-  background-color: #f6f8fa; }
-
-.dark { }

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apache Spark on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/apache-spark/</link>
+    <description>Recent content in Apache Spark on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Jun 2022 15:00:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/apache-spark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu Apache Beam</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-apache-beam/</link>
+      <pubDate>Thu, 02 Jun 2022 15:00:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-apache-beam/</guid>
+      <description>Pengertian Apache Beam Apache Spark adalah open-source framework yang dibuat oleh Google dan dikembangkan oleh Apache Software Foundation pada June 15, 2016. Apache Beam dikembangkan menggunakan bahasa pemerograman JAVA, Python, Go.
+Dukungan Apache Beam Apache Beam dapat digunakan pada bahasa pemerograman, seperti:
+JAVA Python Go Scala Kelebihan Apache Beam Dapat melakukan Stream Procsessing Lebih cepat dari Apache Hadoop dan MapReduce Kekurangan Apache Beam Masih kurangnya dukungan Apache Beam ke beberapa platform dan bahasa pemerograman Related Links Apa itu Big Data Apa itu MapReduce Apa itu Apache Hadoop Apa itu Apache Hive Apa itu Apache Spark </description>
+      <content:encoded><![CDATA[<h2 id="pengertian-apache-beam">Pengertian Apache Beam</h2>
+<p>Apache Spark adalah open-source framework yang dibuat oleh Google dan dikembangkan oleh Apache Software Foundation pada June 15, 2016. Apache Beam dikembangkan menggunakan bahasa pemerograman JAVA, Python, Go.</p>
+<h2 id="dukungan-apache-beam">Dukungan Apache Beam</h2>
+<p>Apache Beam dapat digunakan pada bahasa pemerograman, seperti:</p>
+<ul>
+<li>JAVA</li>
+<li>Python</li>
+<li>Go</li>
+<li>Scala</li>
+</ul>
+<h2 id="kelebihan-apache-beam">Kelebihan Apache Beam</h2>
+<ul>
+<li>Dapat melakukan Stream Procsessing</li>
+<li>Lebih cepat dari Apache Hadoop dan MapReduce</li>
+</ul>
+<h2 id="kekurangan-apache-beam">Kekurangan Apache Beam</h2>
+<ul>
+<li>Masih kurangnya dukungan Apache Beam ke beberapa platform dan bahasa pemerograman</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<ul>
+<li><a href="/apa-itu-big-data">Apa itu Big Data</a></li>
+<li><a href="/apa-itu-map-reduce">Apa itu MapReduce</a></li>
+<li><a href="/apa-itu-apache-hadoop">Apa itu Apache Hadoop</a></li>
+<li><a href="/apa-itu-apache-hive">Apa itu Apache Hive</a></li>
+<li><a href="/apa-itu-apache-spark">Apa itu Apache Spark</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Apa Itu Apache Spark</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-apache-spark/</link>
+      <pubDate>Wed, 01 Jun 2022 14:00:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-apache-spark/</guid>
+      <description>Pengertian Apache Spark Apache Spark adalah open-source framework yang dibuat oleh Matei Zaharia dan dikembangkan oleh Apache Spark pada May 26, 2014. Apache Spark dikembangkan menggunakan bahasa pemerograman SCALA.
+Dukungan Apache Spark Apache Spark dapat digunakan pada bahasa pemerograman, seperti:
+SCALA JAVA SQL Python R C# F# Kelebihan Apache Spark Apache Spark lebih unggul 100x dari Apache Hadoop dalam kecepatan Memiliki dukungan terhadap banyak bahasa pemerograman Dapat dijalankan dibanyak platform Kekurangan Apache Spark Apache Spark hanya bisa melakukan batch processing Related Links Apa itu Big Data Apa itu MapReduce Apa itu Apache Hadoop Apa itu Apache Hive Apa itu Apache Beam </description>
+      <content:encoded><![CDATA[<h2 id="pengertian-apache-spark">Pengertian Apache Spark</h2>
+<p>Apache Spark adalah open-source framework yang dibuat oleh Matei Zaharia dan dikembangkan oleh Apache Spark pada May 26, 2014. Apache Spark dikembangkan menggunakan bahasa pemerograman SCALA.</p>
+<h2 id="dukungan-apache-spark">Dukungan Apache Spark</h2>
+<p>Apache Spark dapat digunakan pada bahasa pemerograman, seperti:</p>
+<ul>
+<li>SCALA</li>
+<li>JAVA</li>
+<li>SQL</li>
+<li>Python</li>
+<li>R</li>
+<li>C#</li>
+<li>F#</li>
+</ul>
+<h2 id="kelebihan-apache-spark">Kelebihan Apache Spark</h2>
+<ul>
+<li>Apache Spark lebih unggul 100x dari Apache Hadoop dalam kecepatan</li>
+<li>Memiliki dukungan terhadap banyak bahasa pemerograman</li>
+<li>Dapat dijalankan dibanyak platform</li>
+</ul>
+<h2 id="kekurangan-apache-spark">Kekurangan Apache Spark</h2>
+<ul>
+<li>Apache Spark hanya bisa melakukan batch processing</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<ul>
+<li><a href="/apa-itu-big-data">Apa itu Big Data</a></li>
+<li><a href="/apa-itu-map-reduce">Apa itu MapReduce</a></li>
+<li><a href="/apa-itu-apache-hadoop">Apa itu Apache Hadoop</a></li>
+<li><a href="/apa-itu-apache-hive">Apa itu Apache Hive</a></li>
+<li><a href="/apa-itu-apache-beam">Apa itu Apache Beam</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

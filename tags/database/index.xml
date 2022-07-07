@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Database on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/database/</link>
+    <description>Recent content in Database on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 May 2022 10:20:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu DBMS</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-dbms/</link>
+      <pubDate>Fri, 27 May 2022 10:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-dbms/</guid>
+      <description>Pengertian DBMS Database Management System (DBMS) adalah suatu software management system yang dibuat untuk mengelola database dengan service atau layanan.
+Fungsi DBMS Database engine Mengurangi potensi ketidakkonsisten data Pengelolaan data Meningkatkan Data Integrity Jenis DBMS Hierarchical Database Network Database Relational Database Software DBMS Microsoft Access Oracle Microsoft SQL Server Firebird Kelebihan DBMS Kualitas data sharing meningkat Meningkatkan efisiensi proses pada server Kekurangan DBMS Memerlukan biaya operasional Frekuensi update relatif cepat Lebih direkomendasikan menggunakan DBMS pada server independen Related Links Apa itu Database?</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-dbms">Pengertian DBMS</h2>
+<p>Database Management System (DBMS) adalah suatu software management system yang dibuat untuk mengelola database dengan service atau layanan.</p>
+<h2 id="fungsi-dbms">Fungsi DBMS</h2>
+<ul>
+<li>Database engine</li>
+<li>Mengurangi potensi ketidakkonsisten data</li>
+<li>Pengelolaan data</li>
+<li>Meningkatkan Data Integrity</li>
+</ul>
+<h2 id="jenis-dbms">Jenis DBMS</h2>
+<ul>
+<li>Hierarchical Database</li>
+<li>Network Database</li>
+<li>Relational Database</li>
+</ul>
+<h2 id="software-dbms">Software DBMS</h2>
+<ul>
+<li>Microsoft Access</li>
+<li>Oracle</li>
+<li>Microsoft SQL Server</li>
+<li>Firebird</li>
+</ul>
+<h2 id="kelebihan-dbms">Kelebihan DBMS</h2>
+<ul>
+<li>Kualitas data sharing meningkat</li>
+<li>Meningkatkan efisiensi proses pada server</li>
+</ul>
+<h2 id="kekurangan-dbms">Kekurangan DBMS</h2>
+<ul>
+<li>Memerlukan biaya operasional</li>
+<li>Frekuensi update relatif cepat</li>
+<li>Lebih direkomendasikan menggunakan DBMS pada server independen</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<p><a href="/apa-itu-database">Apa itu Database?</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Apa Itu Database</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-database/</link>
+      <pubDate>Thu, 26 May 2022 10:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-database/</guid>
+      <description>Pengertian Database Database adalah kumpulan data yang dikelola bedasarkan kondisi tertentu yang saling berhubungan, sehingga mempermudah dalam pengelolaan data tersebut.
+Fungsi Database Mengelompokan data dan informasi bedasarkan kondisi tertentu Memudahkan dalam mengidentifikasi data Memudahkan proses CRUD (Create Read Update and Delete) pada data Dapat menjadi solusi alternatif terkait penyimpanan data suatu aplikasi Meningkatkan kinerja software yang memerlukan proses CRUD pada data Jenis Database Operational Database Database Warehouse Distributed Database Relational Database End-User Database Software Database Oracle JSON MySQL MariaDB Microsoft SQL Server PostgreSQL Kelebihan Database Integritas data lebih baik Keamanan data Kecepatan akses data meningkat Support teknologi restore dan backup Kekurangan Database Kompleksitas cukup tinggi Memerlukan biaya tambahan Membuat kapasitas server/node menjadi berkurang Related Links Apa itu DBMS</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-database">Pengertian Database</h2>
+<p>Database adalah kumpulan data yang dikelola bedasarkan kondisi tertentu yang saling berhubungan, sehingga mempermudah dalam pengelolaan data tersebut.</p>
+<h2 id="fungsi-database">Fungsi Database</h2>
+<ul>
+<li>Mengelompokan data dan informasi bedasarkan kondisi tertentu</li>
+<li>Memudahkan dalam mengidentifikasi data</li>
+<li>Memudahkan proses CRUD (Create Read Update and Delete) pada data</li>
+<li>Dapat menjadi solusi alternatif terkait penyimpanan data suatu aplikasi</li>
+<li>Meningkatkan kinerja software yang memerlukan proses CRUD pada data</li>
+</ul>
+<h2 id="jenis-database">Jenis Database</h2>
+<ul>
+<li>Operational Database</li>
+<li>Database Warehouse</li>
+<li>Distributed Database</li>
+<li>Relational Database</li>
+<li>End-User Database</li>
+</ul>
+<h2 id="software-database">Software Database</h2>
+<ul>
+<li>Oracle</li>
+<li>JSON</li>
+<li>MySQL</li>
+<li>MariaDB</li>
+<li>Microsoft SQL Server</li>
+<li>PostgreSQL</li>
+</ul>
+<h2 id="kelebihan-database">Kelebihan Database</h2>
+<ul>
+<li>Integritas data lebih baik</li>
+<li>Keamanan data</li>
+<li>Kecepatan akses data meningkat</li>
+<li>Support teknologi restore dan backup</li>
+</ul>
+<h2 id="kekurangan-database">Kekurangan Database</h2>
+<ul>
+<li>Kompleksitas cukup tinggi</li>
+<li>Memerlukan biaya tambahan</li>
+<li>Membuat kapasitas server/node menjadi berkurang</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<p><a href="/apa-itu-dbms">Apa itu DBMS</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

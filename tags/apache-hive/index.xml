@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apache Hive on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/apache-hive/</link>
+    <description>Recent content in Apache Hive on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Jun 2022 08:00:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/apache-hive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu Apache Hive</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-apache-hive/</link>
+      <pubDate>Thu, 02 Jun 2022 08:00:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-apache-hive/</guid>
+      <description>Pengertian Apache Hive Apache Hive adalah open-source framework yang dibuat oleh Facebook inc. pada October 1, 2010. Apache Spark dikembangkan menggunakan bahasa pemerograman JAVA.
+Dukungan Apache Hive Apache Spark dapat digunakan pada bahasa pemerograman SQL.
+Organisasi Apache Hive Format data dalam Apache Hive dibagi menjadi 3, yaitu:
+Table Partition Bucket Kelebihan Apache Hive Memiliki kemampuan analisis data yang kuat Dapat melakukan query data Dapat melakukan peringkasan data Kekurangan Apache Hive Tidak memiliki fungsi aggregator Related Links Apa itu Big Data Apa itu MapReduce Apa itu Apache Spark Apa itu Apache Hadoop Apa itu Apache Beam </description>
+      <content:encoded><![CDATA[<h2 id="pengertian-apache-hive">Pengertian Apache Hive</h2>
+<p>Apache Hive adalah open-source framework yang dibuat oleh Facebook inc. pada October 1, 2010. Apache Spark dikembangkan menggunakan bahasa pemerograman JAVA.</p>
+<h2 id="dukungan-apache-hive">Dukungan Apache Hive</h2>
+<p>Apache Spark dapat digunakan pada bahasa pemerograman SQL.</p>
+<h2 id="organisasi-apache-hive">Organisasi Apache Hive</h2>
+<p>Format data dalam Apache Hive dibagi menjadi 3, yaitu:</p>
+<ul>
+<li>Table</li>
+<li>Partition</li>
+<li>Bucket</li>
+</ul>
+<h2 id="kelebihan-apache-hive">Kelebihan Apache Hive</h2>
+<ul>
+<li>Memiliki kemampuan analisis data yang kuat</li>
+<li>Dapat melakukan query data</li>
+<li>Dapat melakukan peringkasan data</li>
+</ul>
+<h2 id="kekurangan-apache-hive">Kekurangan Apache Hive</h2>
+<ul>
+<li>Tidak memiliki fungsi aggregator</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<ul>
+<li><a href="/apa-itu-big-data">Apa itu Big Data</a></li>
+<li><a href="/apa-itu-map-reduce">Apa itu MapReduce</a></li>
+<li><a href="/apa-itu-apache-spark">Apa itu Apache Spark</a></li>
+<li><a href="/apa-itu-apache-hadoop">Apa itu Apache Hadoop</a></li>
+<li><a href="/apa-itu-apache-beam">Apa itu Apache Beam</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MapReduce on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/mapreduce/</link>
+    <description>Recent content in MapReduce on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jun 2022 08:00:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/mapreduce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu MapReduce</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-map-reduce/</link>
+      <pubDate>Wed, 01 Jun 2022 08:00:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-map-reduce/</guid>
+      <description>Pengertian MapReduce MapReduce adalah model pemrograman dan implementasi yang dibuat untuk memproses dan menghasilkan kumpulan big data dengan algoritma terdistribusi paralel pada sebuah kluster. MapReduce adalah framework yang dibuat oleh Google pada tahun 2004.
+Macam Operasi MapReduce Split Map Reduce Shuffle Dukungan MapReduce MapReduce dapat digunakan pada bahasa pemerograman, seperti:
+JAVA Ruby Python C++ Kelebihan MapReduce Skalabilitas Fleksibilitas Sederhana Kekurangan MapReduce Operasi MapReduce hanya berjalan dengan mode serial Kurang cocok untuk analisis data realtime Related Links Apa itu Big Data Apa itu Apache Hadoop Apa itu Apache Spark Apa itu Apache Hive Apa itu Apache Beam </description>
+      <content:encoded><![CDATA[<h2 id="pengertian-mapreduce">Pengertian MapReduce</h2>
+<p>MapReduce adalah model pemrograman dan implementasi yang dibuat untuk memproses dan menghasilkan kumpulan big data dengan algoritma terdistribusi paralel pada sebuah kluster. MapReduce adalah framework yang dibuat oleh Google pada tahun 2004.</p>
+<h2 id="macam-operasi-mapreduce">Macam Operasi MapReduce</h2>
+<ul>
+<li>Split</li>
+<li>Map</li>
+<li>Reduce</li>
+<li>Shuffle</li>
+</ul>
+<h2 id="dukungan-mapreduce">Dukungan MapReduce</h2>
+<p>MapReduce dapat digunakan pada bahasa pemerograman, seperti:</p>
+<ul>
+<li>JAVA</li>
+<li>Ruby</li>
+<li>Python</li>
+<li>C++</li>
+</ul>
+<h2 id="kelebihan-mapreduce">Kelebihan MapReduce</h2>
+<ul>
+<li>Skalabilitas</li>
+<li>Fleksibilitas</li>
+<li>Sederhana</li>
+</ul>
+<h2 id="kekurangan-mapreduce">Kekurangan MapReduce</h2>
+<ul>
+<li>Operasi MapReduce hanya berjalan dengan mode serial</li>
+<li>Kurang cocok untuk analisis data realtime</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<ul>
+<li><a href="/apa-itu-big-data">Apa itu Big Data</a></li>
+<li><a href="/apa-itu-apache-hadoop">Apa itu Apache Hadoop</a></li>
+<li><a href="/apa-itu-apache-spark">Apa itu Apache Spark</a></li>
+<li><a href="/apa-itu-apache-hive">Apa itu Apache Hive</a></li>
+<li><a href="/apa-itu-apache-beam">Apa itu Apache Beam</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

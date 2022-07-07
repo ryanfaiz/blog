@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IaaS on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/iaas/</link>
+    <description>Recent content in IaaS on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 May 2022 15:30:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/iaas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu IP Address</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-ip-address/</link>
+      <pubDate>Mon, 30 May 2022 15:30:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-ip-address/</guid>
+      <description>Pengertian IP Address IP (Internet Protocol). IP Address adalah Internet Protocol yang berfungsi mengidentifikasi atau memberikan ID istimewa perangkat yang terhubung dengan jaringan.
+Fungsi IP Address IP Address berfungsi sebagai ID istimewa sebuah perangkat, sehingga perangkat dapat berkomunikasi dengan perangkat lain dengan persisi.
+Jenis IP Address Bedasarkan Kelas IPv4 adalah IP Address dengan ukuran 32 bit, dibagi menjadi 4 bagian yang dipisah menggunakan titik (.), dan angka pada IPv4 bernilai dari 0 - 255.</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-ip-address">Pengertian IP Address</h2>
+<p>IP (Internet Protocol). IP Address adalah Internet Protocol yang berfungsi mengidentifikasi atau memberikan ID istimewa perangkat yang terhubung dengan jaringan.</p>
+<h2 id="fungsi-ip-address">Fungsi IP Address</h2>
+<p>IP Address berfungsi sebagai ID istimewa sebuah perangkat, sehingga perangkat dapat berkomunikasi dengan perangkat lain dengan persisi.</p>
+<h2 id="jenis-ip-address-bedasarkan-kelas">Jenis IP Address Bedasarkan Kelas</h2>
+<ul>
+<li>
+<p><strong>IPv4</strong>
+adalah IP Address dengan ukuran 32 bit, dibagi menjadi 4 bagian yang dipisah menggunakan titik (.), dan angka pada IPv4 bernilai dari 0 - 255.</p>
+<p>Contoh IPv4:</p>
+<ul>
+<li>192.168.1.1</li>
+<li>21.02.05.1</li>
+</ul>
+</li>
+<li>
+<p><strong>IPv6</strong>
+adalah IP Address dengan ukuran 128 bit, ditulis dengan format hexadecimal 16 bit dan huruf A - F, dibagi menjadi 8 bagian yang dipisah menggunakan titik dua (:).</p>
+<p>Contoh IPv6:</p>
+<ul>
+<li>4f10:70f6:5485:03e4:cd1e:1c69:8ea4:806f</li>
+<li>66cc:4b11:0f8e:ea84:28c9:4039:ff39:0e99</li>
+</ul>
+</li>
+</ul>
+<h2 id="jenis-ip-address-bedasarkan-sifat">Jenis IP Address Bedasarkan Sifat</h2>
+<ul>
+<li>
+<p><strong>Public IP Address</strong>
+adalah IP Address yang digunakan untuk berkomunikasi di luar jaringan LAN dan dapat menghubungkan perangkat ke internet. Biasanya Public IP Address tidak tersedia gratis, karena dikontrol oleh Internet Service Provider (ISP).</p>
+</li>
+<li>
+<p><strong>Private IP Address</strong>
+adalah IP Address yang digunakan untuk berkomunikasi di dalam jaringan LAN, tapi tidak dapat menghubungkan perangkat ke internet. Biasanya Private IP Address tersedia gratis.</p>
+</li>
+<li>
+<p><strong>Dynamic IP Address</strong>
+adalah IP Address bersifat berubah-ubah, biasanya dikonfigurasikan secara default atau bawaan dari Internet Service Provider (ISP). Dynamic IP Address sering digunakan, karena tingkat keamanannya lebih tinggi dibandingkan Static IP Address.</p>
+</li>
+<li>
+<p><strong>Static IP Address</strong>
+adalah IP Adress yang bersifat tetap, biasanya dikonfigurasikan untuk IP Address  server, karena biasanya server lebih mudah digunakan jika IP Address-nya bersifat tetap. Keamanan Static IP Address bisa dibilang rendah, karena IP Address-nya bersifat tetap sehingga mempermudah terjadinya peretasan.</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Apa Itu Cisco Packet Tracer</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-cisco-packet-tracer/</link>
+      <pubDate>Sat, 28 May 2022 10:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-cisco-packet-tracer/</guid>
+      <description>Pengertian Cisco Packet Tracer Cisco Packet Tracer adalah aplikasi simulasi jaringan yang didevelop oleh Cisco
+Fungsi Cisco Packet Tracer Merancang sistem jaringan Mendesain topologi jaringan Kelebihan Cisco Packet Tracer Memiliki UI dan icon yang menarik Menghemat biaya Bersifat gratis Kekurangan Cisco Packet Tracer Beberapa konfigurasi masih harus dilakukan melalui terminal Jenis komponen fisik terbatas </description>
+      <content:encoded><![CDATA[<h2 id="pengertian-cisco-packet-tracer">Pengertian Cisco Packet Tracer</h2>
+<p>Cisco Packet Tracer adalah aplikasi simulasi jaringan yang didevelop oleh Cisco</p>
+<h2 id="fungsi-cisco-packet-tracer">Fungsi Cisco Packet Tracer</h2>
+<ul>
+<li>Merancang sistem jaringan</li>
+<li>Mendesain topologi jaringan</li>
+</ul>
+<h2 id="kelebihan-cisco-packet-tracer">Kelebihan Cisco Packet Tracer</h2>
+<ul>
+<li>Memiliki UI dan icon yang menarik</li>
+<li>Menghemat biaya</li>
+<li>Bersifat gratis</li>
+</ul>
+<h2 id="kekurangan-cisco-packet-tracer">Kekurangan Cisco Packet Tracer</h2>
+<ul>
+<li>Beberapa konfigurasi masih harus dilakukan melalui terminal</li>
+<li>Jenis komponen fisik terbatas</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Apa Itu Wireless Distribution System</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-wireless-distribution-system/</link>
+      <pubDate>Thu, 26 May 2022 16:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-wireless-distribution-system/</guid>
+      <description>Pengertian WDS Wide Distibution System (WDS) adalah sistem yang memungkinkan koneksi nirkabel melalui access point dalam jaringan IEEE 802.11.
+Mode WDS pada jaringan Wireless: Bridge, adalah mode komunikasi dua arah antara Access Point Wireless Distribution System satu dengan Access Point lainnya, tetapi tidak memperbolehkan perangkat wireless clients atau Station (STA) untuk mengaksesnya.
+Bridge Point to point Bridge Point to multi point Repeater, adalah mode komunikasi dimana Access Point saling berkomunikasi satu sama lain dan juga berkomunikasi dengan perangkat wireless clients atau Station (STA).</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-wds">Pengertian WDS</h2>
+<p>Wide Distibution System (WDS) adalah sistem yang memungkinkan koneksi nirkabel melalui access point dalam jaringan IEEE 802.11.</p>
+<h2 id="mode-wds-pada-jaringan-wireless">Mode WDS pada jaringan Wireless:</h2>
+<ul>
+<li>
+<p>Bridge, adalah mode komunikasi dua arah antara Access Point Wireless Distribution System satu dengan Access Point lainnya, tetapi tidak memperbolehkan perangkat wireless clients atau Station (STA) untuk mengaksesnya.</p>
+<ul>
+<li>Bridge Point to point</li>
+<li>Bridge Point to multi point</li>
+</ul>
+</li>
+<li>
+<p>Repeater, adalah mode komunikasi dimana Access Point saling berkomunikasi satu sama lain dan juga berkomunikasi dengan perangkat wireless clients atau Station (STA).</p>
+<ul>
+<li>Single Repeater</li>
+<li>Multi Repeater</li>
+</ul>
+</li>
+</ul>
+<h2 id="syarat-menerapkan-wds">Syarat Menerapkan WDS:</h2>
+<ul>
+<li>Perangkat Wireless Network seperti Wireless Router, Acces Point, dan Access point Repeater wajib support teknologi WDS.</li>
+<li>IP Address perangkat wireless network harus berbeda.</li>
+<li>Perangkat Wireless Network wajib support autentikasi, seperti WEP atau WAP.</li>
+<li>SSID (Service Set Identifiers) yang digunakan pada perangkat wireless network harus berbeda untuk identitas masing-masing perangkat wireless network.</li>
+<li>Setelan Radio Channel yang digunakan wajib sama.</li>
+<li>Pastikan MAC Address Access Point Utama sudah tersimpan di Access point repeater.</li>
+<li>Matikan fitur DHCP server pada Access Point Repeater.</li>
+</ul>
+<h2 id="kelebihan-wds">Kelebihan WDS</h2>
+<ul>
+<li>Lebih hemat biaya</li>
+<li>Lebih efisien</li>
+<li>Mudah dikonfigurasi</li>
+<li>Header MAC address dari paket traffic bersifat tetap atau tidak berubah</li>
+</ul>
+<h2 id="kekurangan-wds">Kekurangan WDS</h2>
+<ul>
+<li>Troughput efektif maksimum akan terbagi menjadi dua setelah transmisi pertama dibuat</li>
+<li>Fitur Dynamic Encryption Key tidak didukung dalam teknologi Wide Distribution System (WDS)</li>
+<li>Tidak semua akses point support teknologi Wide Distribution System (WDS)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Apa Itu Big Data</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-big-data/</link>
+      <pubDate>Wed, 25 May 2022 10:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-big-data/</guid>
+      <description>Apa Itu Big Data Big Data adalah himpunan data dalam jumlah yang sangat besar, rumit, dan tak terstruktur sehingga menjadi sulit ditangani menggunakan aplikasi pengolah data tradisional.
+Framework Big Data Apache Hadoop adalah open-source framework yang dibuat oleh Doug Cutting, Mike Cafarella dan dikembangkan oleh Apache Software Foundation pada April 1, 2006. MapReduce adalah model pemrograman dan implementasi yang dibuat untuk memproses dan menghasilkan kumpulan big datadengan algoritma terdistribusi paralel pada sebuah kluster Apache Spark adalah open-source framework yang dibuat oleh Matei Zaharia dan dikembangkan oleh Apache Spark pada May 26, 2014.</description>
+      <content:encoded><![CDATA[<h2 id="apa-itu-big-data">Apa Itu Big Data</h2>
+<p>Big Data adalah himpunan data dalam jumlah yang sangat besar, rumit, dan tak terstruktur sehingga menjadi sulit ditangani menggunakan aplikasi pengolah data tradisional.</p>
+<h2 id="framework-big-data">Framework Big Data</h2>
+<ul>
+<li><strong>Apache Hadoop</strong>
+adalah open-source framework yang dibuat oleh Doug Cutting, Mike Cafarella dan dikembangkan oleh Apache Software  Foundation pada April 1, 2006.</li>
+<li><strong>MapReduce</strong>
+adalah model pemrograman dan implementasi yang dibuat untuk memproses dan menghasilkan kumpulan big datadengan algoritma terdistribusi paralel pada sebuah kluster</li>
+<li><strong>Apache Spark</strong>
+adalah open-source framework yang dibuat oleh Matei Zaharia dan dikembangkan oleh Apache Spark pada May 26, 2014.</li>
+<li><strong>Apache Hive</strong>
+adalah open-source framework yang dibuat oleh Facebook inc. pada October 1, 2010</li>
+</ul>
+<h2 id="aplikasi-big-data">Aplikasi Big Data</h2>
+<ul>
+<li>Tableau</li>
+<li>Domo</li>
+<li>Looker</li>
+<li>Sisense</li>
+</ul>
+<h2 id="kelebihan-big-data">Kelebihan Big Data</h2>
+<ul>
+<li>Mengenal pelanggan dengan lebih baik</li>
+<li>Membangun strategi marketing yang efektif</li>
+<li>Memberikan insight yang tepat</li>
+<li>Memberikan sudut pandang yang berbeda</li>
+<li>Meningkatkan produktivitas</li>
+<li>Meminimalisir biaya</li>
+</ul>
+<h2 id="kekurangan-big-data">Kekurangan Big Data</h2>
+<ul>
+<li>Sangat berpengaruh dengan kualitas data</li>
+<li>Risiko Keamanan</li>
+<li>Kurangnya talenta data atau praktisi data</li>
+</ul>
+<hr>
+<h3 id="related-links">Related Links</h3>
+<ul>
+<li><a href="/apa-itu-map-reduce">Apa itu MapReduce</a></li>
+<li><a href="/apa-itu-apache-hadoop">Apa itu Apache Hadoop</a></li>
+<li><a href="/apa-itu-apache-spark">Apa itu Apache Spark</a></li>
+<li><a href="/apa-itu-apache-hive">Apa itu Apache Hive</a></li>
+<li><a href="/apa-itu-apache-beam">Apa itu Apache Beam</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

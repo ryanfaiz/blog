@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IP Address on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/ip-address/</link>
+    <description>Recent content in IP Address on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 May 2022 15:30:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/ip-address/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu IP Address</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-ip-address/</link>
+      <pubDate>Mon, 30 May 2022 15:30:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-ip-address/</guid>
+      <description>Pengertian IP Address IP (Internet Protocol). IP Address adalah Internet Protocol yang berfungsi mengidentifikasi atau memberikan ID istimewa perangkat yang terhubung dengan jaringan.
+Fungsi IP Address IP Address berfungsi sebagai ID istimewa sebuah perangkat, sehingga perangkat dapat berkomunikasi dengan perangkat lain dengan persisi.
+Jenis IP Address Bedasarkan Kelas IPv4 adalah IP Address dengan ukuran 32 bit, dibagi menjadi 4 bagian yang dipisah menggunakan titik (.), dan angka pada IPv4 bernilai dari 0 - 255.</description>
+      <content:encoded><![CDATA[<h2 id="pengertian-ip-address">Pengertian IP Address</h2>
+<p>IP (Internet Protocol). IP Address adalah Internet Protocol yang berfungsi mengidentifikasi atau memberikan ID istimewa perangkat yang terhubung dengan jaringan.</p>
+<h2 id="fungsi-ip-address">Fungsi IP Address</h2>
+<p>IP Address berfungsi sebagai ID istimewa sebuah perangkat, sehingga perangkat dapat berkomunikasi dengan perangkat lain dengan persisi.</p>
+<h2 id="jenis-ip-address-bedasarkan-kelas">Jenis IP Address Bedasarkan Kelas</h2>
+<ul>
+<li>
+<p><strong>IPv4</strong>
+adalah IP Address dengan ukuran 32 bit, dibagi menjadi 4 bagian yang dipisah menggunakan titik (.), dan angka pada IPv4 bernilai dari 0 - 255.</p>
+<p>Contoh IPv4:</p>
+<ul>
+<li>192.168.1.1</li>
+<li>21.02.05.1</li>
+</ul>
+</li>
+<li>
+<p><strong>IPv6</strong>
+adalah IP Address dengan ukuran 128 bit, ditulis dengan format hexadecimal 16 bit dan huruf A - F, dibagi menjadi 8 bagian yang dipisah menggunakan titik dua (:).</p>
+<p>Contoh IPv6:</p>
+<ul>
+<li>4f10:70f6:5485:03e4:cd1e:1c69:8ea4:806f</li>
+<li>66cc:4b11:0f8e:ea84:28c9:4039:ff39:0e99</li>
+</ul>
+</li>
+</ul>
+<h2 id="jenis-ip-address-bedasarkan-sifat">Jenis IP Address Bedasarkan Sifat</h2>
+<ul>
+<li>
+<p><strong>Public IP Address</strong>
+adalah IP Address yang digunakan untuk berkomunikasi di luar jaringan LAN dan dapat menghubungkan perangkat ke internet. Biasanya Public IP Address tidak tersedia gratis, karena dikontrol oleh Internet Service Provider (ISP).</p>
+</li>
+<li>
+<p><strong>Private IP Address</strong>
+adalah IP Address yang digunakan untuk berkomunikasi di dalam jaringan LAN, tapi tidak dapat menghubungkan perangkat ke internet. Biasanya Private IP Address tersedia gratis.</p>
+</li>
+<li>
+<p><strong>Dynamic IP Address</strong>
+adalah IP Address bersifat berubah-ubah, biasanya dikonfigurasikan secara default atau bawaan dari Internet Service Provider (ISP). Dynamic IP Address sering digunakan, karena tingkat keamanannya lebih tinggi dibandingkan Static IP Address.</p>
+</li>
+<li>
+<p><strong>Static IP Address</strong>
+adalah IP Adress yang bersifat tetap, biasanya dikonfigurasikan untuk IP Address  server, karena biasanya server lebih mudah digunakan jika IP Address-nya bersifat tetap. Keamanan Static IP Address bisa dibilang rendah, karena IP Address-nya bersifat tetap sehingga mempermudah terjadinya peretasan.</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

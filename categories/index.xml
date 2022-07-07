@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/categories/</link>
+    <description>Recent content in Categories on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Jun 2022 15:00:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article</title>
+      <link>https://ryanfaiz.netlify.app/categories/article/</link>
+      <pubDate>Thu, 02 Jun 2022 15:00:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/categories/article/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

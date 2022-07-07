@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Packet Tracer on Ryan Faiz</title>
+    <link>https://ryanfaiz.netlify.app/tags/packet-tracer/</link>
+    <description>Recent content in Packet Tracer on Ryan Faiz</description>
+    <image>
+      <url>https://ryanfaiz.netlify.app/icons/favicon.webp</url>
+      <link>https://ryanfaiz.netlify.app/icons/favicon.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 May 2022 10:20:00 +0700</lastBuildDate><atom:link href="https://ryanfaiz.netlify.app/tags/packet-tracer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa Itu Cisco Packet Tracer</title>
+      <link>https://ryanfaiz.netlify.app/apa-itu-cisco-packet-tracer/</link>
+      <pubDate>Sat, 28 May 2022 10:20:00 +0700</pubDate>
+      
+      <guid>https://ryanfaiz.netlify.app/apa-itu-cisco-packet-tracer/</guid>
+      <description>Pengertian Cisco Packet Tracer Cisco Packet Tracer adalah aplikasi simulasi jaringan yang didevelop oleh Cisco
+Fungsi Cisco Packet Tracer Merancang sistem jaringan Mendesain topologi jaringan Kelebihan Cisco Packet Tracer Memiliki UI dan icon yang menarik Menghemat biaya Bersifat gratis Kekurangan Cisco Packet Tracer Beberapa konfigurasi masih harus dilakukan melalui terminal Jenis komponen fisik terbatas </description>
+      <content:encoded><![CDATA[<h2 id="pengertian-cisco-packet-tracer">Pengertian Cisco Packet Tracer</h2>
+<p>Cisco Packet Tracer adalah aplikasi simulasi jaringan yang didevelop oleh Cisco</p>
+<h2 id="fungsi-cisco-packet-tracer">Fungsi Cisco Packet Tracer</h2>
+<ul>
+<li>Merancang sistem jaringan</li>
+<li>Mendesain topologi jaringan</li>
+</ul>
+<h2 id="kelebihan-cisco-packet-tracer">Kelebihan Cisco Packet Tracer</h2>
+<ul>
+<li>Memiliki UI dan icon yang menarik</li>
+<li>Menghemat biaya</li>
+<li>Bersifat gratis</li>
+</ul>
+<h2 id="kekurangan-cisco-packet-tracer">Kekurangan Cisco Packet Tracer</h2>
+<ul>
+<li>Beberapa konfigurasi masih harus dilakukan melalui terminal</li>
+<li>Jenis komponen fisik terbatas</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
